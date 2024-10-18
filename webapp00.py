@@ -10,7 +10,7 @@ Escrever(db)
 st.title("Primeiro contato com streamlit")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Testando edição a parti do git hub.")
+st.header("Testando edição a partir do git hub.")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Palmeiras minha vida é você.")
