@@ -10,10 +10,10 @@ Escrever(db)
 st.title("Primeiro contato com streamlit")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Hejheheheh! Prof. Massaki")
+st.header("Testando edição a parti do git hub.")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Cabeçalho")
+st.subheader("Palmeiras minha vida é você.")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
